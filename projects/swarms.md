@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: file:///C:/Users/drkco/Downloads/Screenshot%202024-09-04%20001147.png
+image: https://imgur.com/a/wsEDQXB
 title: "Unmanned Swarms"
 date: 2024
 published: true
