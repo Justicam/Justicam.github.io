@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: [nationaldefensemagazine](https://www.nationaldefensemagazine.org/-/media/sites/magazine/2023/12/swarm-vp-wed-pm.jpg)
+image: https://www.nationaldefensemagazine.org/-/media/sites/magazine/2023/12/swarm-vp-wed-pm.jpg
 title: "Unmanned Swarms"
 date: 2024
 published: true
