@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/swarm-vp-wed-pm.jpg
+image: img/Screenshot-2024-09-04-001147.png
 title: "Unmanned Swarms"
 date: 2024
 published: true
