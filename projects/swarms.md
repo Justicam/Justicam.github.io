@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: http://www.nationaldefensemagazine.org/-/media/sites/magazine/2023/12/swarm-vp-wed-pm.jpg
+image: file:///C:/Users/drkco/Downloads/Screenshot%202024-09-04%20001147.png
 title: "Unmanned Swarms"
 date: 2024
 published: true
