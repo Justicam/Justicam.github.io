@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/
+image: img/Screenshot 2024-09-05-005953-tcpattack.png
 title: "TCP Attacks"
 date: 2024
 published: true
