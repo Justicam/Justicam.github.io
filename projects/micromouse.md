@@ -1,39 +1,47 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
-title: "Micromouse"
-date: 2015
+image: img/
+title: "TCP Attacks"
+date: 2024
 published: true
 labels:
-  - Robotics
-  - Arduino
-  - C++
-summary: "My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition."
+  - Python/Scapy
+  - Denial of Service
+summary: "My team carried out multiple attacks on a TCP network to explore its vulnerabilities in depth."
 ---
 
-<div class="text-center p-4">
-  <img width="200px" src="../img/micromouse/micromouse-robot.png" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-robot-2.jpg" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-circuit.png" class="img-thumbnail" >
-</div>
+We conducted a comprehensive examination of the Transmission Control Protocol (TCP), focusing on the TCP SYN flood attack, SYN cookies, TCP reset attack, TCP session hijacking attack, and Reverse shell attacks. This allowed us to gain a better understanding of how attackers can exploit these flaws to disrupt or manipulate network communication.
 
-Micromouse is an event where small robot “mice” solve a 16 x 16 maze.  Events are held worldwide.  The maze is made up of a 16 by 16 gird of cells, each 180 mm square with walls 50 mm high.  The mice are completely autonomous robots that must find their way from a predetermined starting position to the central area of the maze unaided.  The mouse will need to keep track of where it is, discover walls as it explores, map out the maze and detect when it has reached the center.  having reached the center, the mouse will typically perform additional searches of the maze until it has found the most optimal route from the start to the center.  Once the most optimal route has been determined, the mouse will run that route in the shortest possible time.
+The SYN flooding attack represents a type of Denial of Service (DoS) attack wherein attackers inundate a target's TCP port with a multitude of SYN requests, with no genuine intention of completing the three-way handshake process. This method allows attackers to overload the victim's queue reserved for half-open connections.
 
-For this project, I was the lead programmer who was responsible for programming the various capabilities of the mouse.  I started by programming the basics, such as sensor polling and motor actuation using interrupts.  From there, I then programmed the basic PD controls for the motors of the mouse.  The PD control the drive so that the mouse would stay centered while traversing the maze and keep the mouse driving straight.  I also programmed basic algorithms used to solve the maze such as a right wall hugger and a left wall hugger algorithm.  From there I worked on a flood-fill algorithm to help the mouse track where it is in the maze, and to map the route it takes.  We finished with the fastest mouse who finished the maze within our college.
+A TCP RST attack is a method employed to disrupt an established TCP connection between two entities, potentially causing a significant interruption in ongoing communications. This disruption can render services unavailable and precipitate various denial-of-service scenarios. To execute a TCP RST attack, an attacker must first pinpoint a valid TCP session to target. This involves identifying the source and destination IP addresses, port numbers, and the sequence numbers of the packets involved in the session. Following this identification, the attacker utilizes custom scripts to forge a TCP packet that mimics one from the targeted session.
 
-Here is some code that illustrates how we read values from the line sensors:
+The primary goal of the TCP Session Hijacking attack is to seize control of an ongoing TCP connection between two entities, facilitating the injection of malevolent content into this communication channel. Particularly pertinent in the context of telnet sessions, this attack enables perpetrators to embed harmful commands within the session's data flow, compelling the unwitting participants to execute these commands against their interests.
 
-```cpp
-byte ADCRead(byte ch)
-{
-    word value;
-    ADC1SC1 = ch;
-    while (ADC1SC1_COCO != 1)
-    {   // wait until ADC conversion is completed   
-    }
-    return ADC1RL;  // lower 8-bit value out of 10-bit data from the ADC
-}
+
+Here is some code that illustrates how we infiltrated a TCP 3 way-handshake:
+
+```py
+# Spoof the ACK to finish 3-way handshake 
+initiated by the attacker
+ # We are only allowed to use the sequence 
+number in the captured packet
+ def spoof(pkt):
+ old_tcp= pkt[TCP]
+ if old_tcp.flags== 'SA':
+ # Spoof ACK to finish the handshake 
+protocol
+ ip=  IP( src = srv_ip,
+ dst = x_ip)
+ tcp= TCP(sport = srv_port,
+ dport= x_port,
+ seq   = syn_seq+ 1,
+ ack   = old_tcp.seq+ 1,
+ flags="A")
+ data = 'Hello victim\n'
+ print('  {}-->{} Spoofing ACK + 
+Data'.format(tcp.sport, tcp.dport))
+ send(ip/tcp/data, verbose=0)
 ```
 
-You can learn more at the [UH Micromouse News Announcement](https://manoa.hawaii.edu/news/article.php?aId=2857).
