@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/
+image: img/Screenshot 2024-09-04-221342-sniffing.png
 title: "Packet Sniffing/Spoofing"
 date: 2024
 published: true
