@@ -8,6 +8,7 @@ published: true
 labels:
   - Engineering
 ---
+A well-formed question, as described by Eric Raymond's principles, incorporates several crucial traits that lead to more effective problem-solving. These include: thoroughly researching the issue beforehand, asking the question in the right forum or community, providing relevant context, and clearly articulating the specific problem. Additionally, using meaningful and precise subject headers ensures clarity, while recognizing that immediate responses should not be expected sets realistic expectations. Demonstrating humility, politeness, and gratitude throughout the process also fosters a positive atmosphere for collaboration. Following these guidelines encourages experts to engage, enhances the likelihood of receiving useful help, and fosters deeper learning by showing initiative and appreciation for other's input.
 
 ## HEADER 
 
@@ -15,31 +16,7 @@ labels:
 ```Stack Overflow question demonstrating the 'Smart Way'.
 Q: python date of the previous month
 
-I am trying to get the date of the previous month with python. Here is what i've tried:
 
-str( time.strftime('%Y') ) + str( int(time.strftime('%m'))-1 )
-
-However, this way is bad for 2 reasons: First it returns 20122 for the February of 2012 (instead of 201202) 
-and secondly it will return 0 instead of 12 on January.
-
-I have solved this trouble in bash with:
-
-echo $(date -d"3 month ago" "+%G%m%d")
-
-I think that if bash has a built-in way for this purpose, then python, much more equipped, should provide something 
-better than forcing writing one's own script to achieve this goal. Of course i could do something like:
-
-if int(time.strftime('%m')) == 1:
-    return '12'
-else:
-    if int(time.strftime('%m')) < 10:
-        return '0'+str(time.strftime('%m')-1)
-    else:
-        return str(time.strftime('%m') -1)
-        
-I have not tested this code and i don't want to use it anyway (unless I can't find any other way:/)
-
-Thanks for your help!
 ```
 
 
@@ -48,31 +25,7 @@ Thanks for your help!
 ```Stack Overflow question lacking the 'Smart Way'.
 Q: python date of the previous month
 
-I am trying to get the date of the previous month with python. Here is what i've tried:
 
-str( time.strftime('%Y') ) + str( int(time.strftime('%m'))-1 )
-
-However, this way is bad for 2 reasons: First it returns 20122 for the February of 2012 (instead of 201202) 
-and secondly it will return 0 instead of 12 on January.
-
-I have solved this trouble in bash with:
-
-echo $(date -d"3 month ago" "+%G%m%d")
-
-I think that if bash has a built-in way for this purpose, then python, much more equipped, should provide something 
-better than forcing writing one's own script to achieve this goal. Of course i could do something like:
-
-if int(time.strftime('%m')) == 1:
-    return '12'
-else:
-    if int(time.strftime('%m')) < 10:
-        return '0'+str(time.strftime('%m')-1)
-    else:
-        return str(time.strftime('%m') -1)
-        
-I have not tested this code and i don't want to use it anyway (unless I can't find any other way:/)
-
-Thanks for your help!
 ```
 
 ## HEADER
