@@ -44,17 +44,21 @@ However, in my project, I need to handle various matrices, and I’d like to avo
 ```
 
 ## The Smart Way
-  This question exemplifies several qualities of a well crafted smart question. The title succinctly describes the issue, including the error encountered and what specific assistance the user is seeking. The user provides ample context by including the exact error message, a relevant code snippet, and an explanation of the troubleshooting steps they have already taken. They also mention that they have researched the issue, showing a commitment to solving the problem independently.
-  Moreover, the user asks clear, thoughtful questions regarding the efficiency and reliability of their current method, how to handle singular matrices more effectively, and whether alternative solutions, such as the use of the pseudoinverse, might better suit their needs. The code provided is concise, focusing specifically on the problematic part of the program, and is well formatted, making it easy for others to understand and replicate.
-  The user demonstrates a respectful and courteous tone, expressing appreciation in advance without appearing demanding or urgent. Beyond requesting a solution, they express a desire to deepen their understanding by asking about best practices and alternative approaches, indicating a genuine interest in improving their knowledge. This openness to learning further enhances the quality of the question.
 
-```Stack Overflow question lacking the 'Smart Way'
+This question exemplifies several qualities of a well-crafted smart question. The title succinctly describes the issue, including the error encountered and what specific assistance the user is seeking. The user provides ample context by including the exact error message, a relevant code snippet, and an explanation of the troubleshooting steps they have already taken. They also mention that they have researched the issue, showing a commitment to solving the problem independently.
+
+Moreover, the user asks clear, thoughtful questions regarding the efficiency and reliability of their current method, how to handle singular matrices more effectively, and whether alternative solutions, such as the use of the pseudoinverse, might better suit their needs. The code provided is concise, focusing specifically on the problematic part of the program, and is well formatted, making it easy for others to understand and replicate.
+
+The user demonstrates a respectful and courteous tone, expressing appreciation in advance without appearing demanding or urgent. Beyond requesting a solution, they express a desire to deepen their understanding by asking about best practices and alternative approaches, indicating a genuine interest in improving their knowledge. This openness to learning further enhances the quality of the question.
+
+### Stack Overflow question lacking the 'Smart Way'
+
+```plaintext
 Q: URGENT!!! My program is broken and I can't figure out why.
 
 Hey everyone,
 
 I'm working on a Python project for a class, and my program isn't working the way it's supposed to. I don't know what's wrong, and it's due tomorrow. Can someone fix it for me? I'm in a rush.
-
 import numpy as np
 
 class MatrixOperations:
@@ -72,7 +76,6 @@ def main():
     print(inv)
 
 main()
-
 ```
 
 ## Non-Smart Way
