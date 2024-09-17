@@ -35,6 +35,6 @@ Here is some code that illustrates how we used python to spoof packets:
  tcp= TCP( sport = srv_port, dport= x_port, 
 seq   = syn_seq, flags = 'S')
  print('Sending SYN...')
- send(ip/tcp, verbose=1
+ send(ip/tcp, verbose=1)
 ```
 
