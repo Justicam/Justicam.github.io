@@ -8,7 +8,7 @@ published: true
 labels:
   - Engineering
 ---
-
+UI framworks were quite difficult to learn. As this would be my first time utilizing this techinque in designing the user interface for websites. I did notice that the efficiency compared to HTML and CSS was very handy. Bootstrap 5 also comes with predesigned components such as buttons, models, navigation bars, etc. I also enjoy how bootstraps grid system automatically adjusts for different screen resolutions. Developing responsive, and cross-browser-compatible UIs from scratch using raw HTML and CSS felt slow. UI frameworks like Bootstrap 5 provide a structured, scalable, and efficient way to build modern web applications. While they require an initial learning curve, the benefits of time savings, cross-browser compatibility, responsiveness, and maintainability make them well worth the effort in most software engineering contexts. 
 
 ## Header 1
 
