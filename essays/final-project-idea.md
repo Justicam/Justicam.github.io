@@ -9,6 +9,10 @@ labels:
 ---
 ## Overview
 
-## Comparison
+## Names of the proposers
 
-## Conclusion
+## Mockup page ideas
+
+## Use case ideas
+
+## Beyond the basics
