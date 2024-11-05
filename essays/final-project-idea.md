@@ -9,6 +9,7 @@ labels:
 ---
 ## Overview
 Students at UH Manoa often struggle with commuting. Parking is limited, expensive, and hard to find. While public transportation isn’t always convenient for everyone. As a result, many students drive alone, which adds to traffic, raises transportation costs, and increases carbon emissions.
+
 My solution, UH Manoa Ride Share, connects students with similar routes and schedules to make carpooling easier. This app helps students save on commuting costs, eases parking demand, and reduces environmental impact. It encourages safe and convenient ride sharing. Creating a sustainable and collaborative way to get around.
 
 ## Proposer: Justin Campos
