@@ -9,7 +9,8 @@ labels:
 
 Imagine you're putting together a piece of furniture, like a bookshelf. Instead of designing each shelf from scratch every time, you might use a standard set of instructions that ensures the shelves fit together perfectly. In the world of software development, these standard instructions are called 'design patterns'. Design patterns are solutions to common problems that programmers often face. Just as furniture instructions help you build sturdy and functional pieces without reinventing the wheel, design patterns help developers create reliable and efficient code without starting from zero each time. They provide a common language that makes it easier for teams to communicate and collaborate on projects.
 
-!(https://media.istockphoto.com/id/1300331505/vector/living-room-interior-comfortable-sofa-bookcase-chair-and-house-plants-vector-flat-style.jpg?s=612x612&w=0&k=20&c=KbIpj1QZ7FXfma9ELib4My6URwkuPU05gN20IRDG__c=)
+![Online Hosted Image](https://example.com/images/online-image.png)
+
 
 Take the Singleton Pattern for example. Think of it like the main light switch in a room. There’s only one switch that controls all the lights, ensuring everything works together smoothly. In software, the Singleton Pattern ensures that a class has only one instance, which is useful for things like managing a database connection where having multiple instances could cause conflicts. Another example is the Observer Pattern, similar to how a weather app updates you when the forecast changes. In programming, the Observer Pattern allows one part of the code to watch and respond to changes in another part. This is helpful for things like updating the user interface automatically when data changes, without the different parts being tightly linked.
 
