@@ -19,4 +19,4 @@ In my own coding projects, I have used the Factory Pattern. Imagine a factory th
 ![Online Hosted Image](https://media.geeksforgeeks.org/wp-content/uploads/20240401155141/FactoryMethodDesignPattern.jpg)
 
 
-In summary, design patterns are like the standard instructions that help software developers solve common problems efficiently. By applying these patterns in my projects, I create systems that are strong, adaptable, and easy to manage qualities that are essential both in software and in everyday tasks.
+In summary, design patterns are like the standard instructions that help software developers solve common problems efficiently. By applying these patterns in my projects, I create systems that are strong, adaptable, and easy to manage qualities that are essential in software.
