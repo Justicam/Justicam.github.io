@@ -48,7 +48,7 @@ In real world simulations, AI has been used for predictive analysis and testing.
 
 The effectiveness of AI in addressing real-world software engineering challenges is undeniable. It improves efficiency, accuracy, and consistency while reducing human error and saving time. By automating routine tasks and offering intelligent solutions, AI enables developers to tackle larger-scale problems, innovate faster, and deliver higher-quality software.
 
-##V. Challenges and Opportunities
+## V. Challenges and Opportunities
 One challenge I encountered with AI in the course was its occasional tendency to provide overly generic or incorrect solutions, which required me to spend extra time verifying and debugging the output. Relying too heavily on AI also risked limiting my critical thinking if not used carefully.
 
 Despite these limitations, there are significant opportunities for further integration of AI in software engineering education. AI could be used to create personalized learning experiences, offer real-time feedback during coding exercises, and simulate complex software scenarios for better hands-on practice. 
