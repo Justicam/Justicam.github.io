@@ -9,7 +9,7 @@ labels:
 ---
 ## I. Introduction
 AI is becoming an important part of education, especially in software engineering. It helped me learn by making coding easier and solving problems faster. AI tools can automate tasks like fixing bugs, generating code, and improving workflow, which allows us to focus on more challenging work. In ICS 314, AI tools played a big role in helping me write cleaner code, understand programming concepts, and save time on repetitive tasks.
-One of the tools I used was ChatGPT, which helped me generate code, fix errors, and understand JavaScript and TypeScript concepts. AI-based features like code autocompletion (Co-Pilot) in editors such as Visual Studio Code also made writing code faster and easier. These tools improved my productivity and made me more confident in building projects.
+One of the tools I used was ChatGPT, which helped me generate code, fix errors, and understand JavaScript and TypeScript concepts. AI-based features like code autocompletion (Co-Pilot) in editors such as Visual Studio Code also made writing code faster and easier. These tools improved my productivity and made me more confident in building projects. 
 
 ## II. Personal Experience with AI
 WODs were challenging yet rewarding experiences that taught me to code efficiently under pressure. Whenever I encountered an issue, AI tools like ChatGPT helped me identify errors quickly or clarify tricky concepts, which improved my problem-solving and time management during these timed exercises.
