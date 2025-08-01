@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Justin Campos",
-    "label": "Student",
+    "label": "IT Systems and Security Analyst",
     "picture": "https://avatars.githubusercontent.com/u/122346004?v=4",
-    "email": "jcr69@hawaii.edu",
+    "email": "jahstincampos@gmail.com",
     "phone": "808-385-2709",
     "website": "https://Justicam.github.io",
-    "summary": "I am a senior studying for a B.S. in Computer Engineering and focusing on Cyber Security in the Department of Engineering at the University of Hawaii. I expect to graduate this Fall, 2024.",
+    "summary": "I am a Computer Engineer graduate from the University of Hawaii at Manoa. Welcome to my portfolio.",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "Justicam", "url": "http://github.com/Justicam" },
@@ -32,8 +32,9 @@
   ],
   "education": [
     {
+      "Occupation": "IT Systems and Security Analyst",
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Engineering (expected Fall, 2024)",
+      "area": "Computer Engineering",
       "studyType": "B.S.",
       "startDate": "2020-09-01",
       "endDate": "2024-12-21",
