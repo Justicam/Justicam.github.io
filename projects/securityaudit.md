@@ -7,7 +7,8 @@ date: 2026
 published: true
 labels:
   - Security Audit
-summary: I conducted a security audit.
+  - Cyber Security
+summary: 
 ---
 
 **This scenario is based on a fictional company:**
