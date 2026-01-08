@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/
+image: img/virtualization.png
 title: "HDOT Virtual Imaging Project"
 date: 2026
 published: true
