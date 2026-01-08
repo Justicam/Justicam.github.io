@@ -33,7 +33,7 @@ My task is to review the IT manager’s scope, goals, and risk assessment report
 
 **Recommendations**
 
-Botium Toys has a risk scored an 8 on a scale of 1 to 10. The physical security is noted as sufficient, which is positive. The focus must now shift to cybersecurity and data governance. The single most dangerous flaw is all employees having potential access to unencrypted cardholder data. Fixing that, along with access controls and backups, will address the most existential threats to the company. Consider engaging a third-party security consultant to assist with the technical implementation and compliance assessment.
+Botium Toys has a risk score of 8 on a scale of 1 to 10. The physical security is noted as sufficient, which is positive. The focus must now shift to cybersecurity and data governance. The single most dangerous flaw is all employees having potential access to unencrypted cardholder data. Fixing that, along with access controls and backups, will address the most existential threats to the company. Consider engaging a third-party security consultant to assist with the technical implementation and compliance assessment.
 
 | Priority        | Area                   | Key Actions                                                                                                                                       |
 | :-------------- | :--------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------ |
