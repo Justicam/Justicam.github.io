@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/
-title: ""
+title: "Cyber Security Portfolio: Security Audit"
 date: 2025
 published: true
 labels:
@@ -10,4 +10,4 @@ labels:
 summary: I conducted a security audit.
 ---
 
-Context: 
+
