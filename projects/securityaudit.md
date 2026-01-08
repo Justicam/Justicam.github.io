@@ -22,14 +22,13 @@ My task is to review the IT manager’s scope, goals, and risk assessment report
 
 **Supporting Materials:**
 
-https://docs.google.com/document/d/1s2u_RuhRAI40JSh-eZHvaFsV1ZMxcNSWXifHDTOsgFc/template/preview#heading=h.evidx83t54sc
+• [Scope, goals, and risk assessment report](https://docs.google.com/document/d/1s2u_RuhRAI40JSh-eZHvaFsV1ZMxcNSWXifHDTOsgFc/template/preview)
 
-https://docs.google.com/document/d/1HsIw5HNDbRXzW7pmhPLsK06B7HF-KMifENO_TlccbSU/template/preview
+• [Control categories](https://docs.google.com/document/d/1HsIw5HNDbRXzW7pmhPLsK06B7HF-KMifENO_TlccbSU/template/preview)
 
 **My Audit**
 
-https://docs.google.com/document/d/1jbhPUl06JFw1uKgUpW7ZsqroAGTAf4LpdqOnoKPDy-g/edit?usp=sharing
-
+• [Controls and compliance checklist](https://docs.google.com/document/d/1jbhPUl06JFw1uKgUpW7ZsqroAGTAf4LpdqOnoKPDy-g/edit)
 
 
 
