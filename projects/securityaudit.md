@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/
+image: (https://www.scnsoft.com/cybersecurity/security-audit/cover-pic-security-audit.svg)
 title: "Cyber Security Portfolio: Security Audit"
 date: 2026
 published: true
