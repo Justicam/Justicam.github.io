@@ -40,3 +40,16 @@ Detect potential security incidents and improve monitoring capabilities to incre
 Respond to contain, neutralize, and analyze security incidents; implement improvements to the security process. 
 
 Recover affected systems to normal operation and restore systems data and/or assets that have been affected by an incident. 
+
+**My Results**
+
+[Incident report analysis](https://docs.google.com/document/d/1Wxl2r2lsGpyjw41s-LkuQOm9ITxtPniGLzRN2VwtMy4/edit?usp=sharing)
+
+
+
+
+
+
+
+
+
