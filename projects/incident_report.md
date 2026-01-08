@@ -29,7 +29,7 @@ Network monitoring software to detect abnormal traffic patterns
 
 An IDS/IPS system to filter out some ICMP traffic based on suspicious characteristics
 
-As a cybersecurity analyst, you are tasked with using this security event to create a plan to improve your company’s network security, following the National Institute of Standards and Technology (NIST) Cybersecurity Framework (CSF). You will use the CSF to help you navigate through the different steps of analyzing this cybersecurity event and integrate your analysis into a general security strategy. We have broken the analysis into different parts in the template below. You can explore them here:
+As a cybersecurity analyst, we are tasked with using this security event to create a plan to improve your company’s network security, following the National Institute of Standards and Technology (NIST) Cybersecurity Framework (CSF). I will use the CSF to help you navigate through the different steps of analyzing this cybersecurity event and integrate your analysis into a general security strategy.
 
 Identify security risks through regular audits of internal networks, systems, devices, and access privileges to identify potential gaps in security. 
 
