@@ -34,15 +34,15 @@ My task is to review the IT manager’s scope, goals, and risk assessment report
 
 Botium Toys has a risk scored an 8 on a scale of 1 to 10. The physical security is noted as sufficient, which is positive. The focus must now shift to cybersecurity and data governance. The single most dangerous flaw is all employees having potential access to unencrypted cardholder data. Fixing that, along with access controls and backups, will address the most existential threats to the company. Consider engaging a third-party security consultant to assist with the technical implementation and compliance assessment.
 
-| Priority | Area | Key Actions |
-| :--- | :--- | :--- |
-| **CRITICAL** | **Data Protection** | • Network segmentation for sensitive data<br>• Implement encryption for cardholder data (at rest & in transit)<br>• Isolate PII/SPII to restricted access zones |
-| **CRITICAL** | **Access Control** | • Implement Least Privilege principle<br>• Deploy Role-Based Access Control (RBAC)<br>• Establish separation of duties for critical functions |
-| **CRITICAL** | **Business Continuity** | • Establish 3-2-1 backup strategy (encrypted, offsite)<br>• Create basic disaster recovery plan<br>• Test restoration procedures immediately |
-| **HIGH** | **Credential Security** | • Update password policy (12+ chars, complexity)<br>• Implement enterprise password manager<br>• Eliminate shared/default credentials |
-| **HIGH** | **Threat Detection** | • Deploy IDS/IPS at network boundaries<br>• Focus monitoring on sensitive data segments<br>• Establish baseline for normal traffic patterns |
-| **MEDIUM** | **Process & Compliance** | • Formalize patch management schedule<br>• Develop comprehensive Incident Response Plan<br>• Align with PCI DSS and GDPR requirements |
-| **FOUNDATIONAL** | **Security Culture** | • Mandatory security awareness training<br>• Regular phishing simulations<br>• Role-specific data handling procedures |
+| Priority        | Area                   | Key Actions                                                                                                                                       |
+| :-------------- | :--------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **CRITICAL**    | **Data Protection**    | • Network segmentation for sensitive data<br>• Implement encryption for cardholder data (at rest & in transit)<br>• Isolate PII/SPII to restricted access zones |
+| **CRITICAL**    | **Access Control**     | • Implement Least Privilege principle<br>• Deploy Role-Based Access Control (RBAC)<br>• Establish separation of duties for critical functions      |
+| **CRITICAL**    | **Business Continuity**| • Establish 3-2-1 backup strategy (encrypted, offsite)<br>• Create basic disaster recovery plan<br>• Test restoration procedures immediately      |
+| **HIGH**        | **Credential Security**| • Update password policy (12+ chars, complexity)<br>• Implement enterprise password manager<br>• Eliminate shared/default credentials              |
+| **HIGH**        | **Threat Detection**   | • Deploy IDS/IPS at network boundaries<br>• Focus monitoring on sensitive data segments<br>• Establish baseline for normal traffic patterns        |
+| **MEDIUM**      | **Process & Compliance**| • Formalize patch management schedule<br>• Develop comprehensive Incident Response Plan<br>• Align with PCI DSS and GDPR requirements             |
+| **FOUNDATIONAL**| **Security Culture**   | • Mandatory security awareness training<br>• Regular phishing simulations<br>• Role-specific data handling procedures                              |
 
 
 
