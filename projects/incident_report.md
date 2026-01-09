@@ -43,7 +43,6 @@ Recover affected systems to normal operation and restore systems data and/or ass
 
 [NIST CSF](https://docs.google.com/document/d/15yCDbDCOAcJw-LTz2DeCA7UeLRfvsf176T6MA6ku6ok/template/preview)
 
-
 **My Results**
 
 [Incident report analysis](https://docs.google.com/document/d/1Wxl2r2lsGpyjw41s-LkuQOm9ITxtPniGLzRN2VwtMy4/edit?usp=sharing)
