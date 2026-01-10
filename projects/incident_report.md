@@ -8,6 +8,7 @@ published: true
 labels:
   - Incident Report
   - Cyber Security
+  - Risk Management
 summary: 
 ---
 
