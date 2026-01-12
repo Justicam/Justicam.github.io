@@ -18,7 +18,7 @@ You are a security professional at a large organization. You mainly work with th
 
 Your task is to examine existing permissions on the file system. You’ll need to determine if the permissions match the authorization that should be given. If they do not match, you’ll need to modify the permissions to authorize the appropriate users and remove any unauthorized access.
 
-**Report**
+**Written Report**
 
 [File permissions in Linux](https://docs.google.com/document/d/1HBhS4fCpwY-AY3EqhuBpiCcng_JBNXfUkF2aLQcADXc/edit?usp=sharing)
 
