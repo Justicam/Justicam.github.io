@@ -17,7 +17,7 @@ You are a security professional at a large organization. Part of your job is to 
 
 Your task is to examine the organization’s data in their employees and log_in_attempts tables. You’ll need to use SQL filters to retrieve records from different datasets and investigate the potential security issues.
 
-**Report**
+**Written Report**
 
 [Apply filters to SQL queries](https://docs.google.com/document/d/1QiYB87-Fg9wDX55oip2wOCWQZG1y_BuuM3fIqcttcOc/edit?usp=sharing)
 
