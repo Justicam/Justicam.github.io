@@ -18,6 +18,8 @@ You are a newly hired cybersecurity analyst for an e-commerce company. The compa
 
 You are tasked with completing a vulnerability assessment of the situation to communicate the potential risks to decision makers at the company. You must create a written report that explains how the vulnerable server is a risk to business operations and how it can be secured.
 
+**Written Report**
 
+[Vulnerability Assessment Report](https://docs.google.com/document/d/19bXAgIxrH5ZI7LIDUpxgQiwvY8s5T2gLWlS3EUkKJiw/edit?usp=sharing)
 
 
