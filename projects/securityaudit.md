@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/audit_image.png
 title: "Cyber Security Portfolio: Security Audit"
-date: 2026
+date: 2025
 published: true
 labels:
   - Security Audit
